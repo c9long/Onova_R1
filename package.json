@@ -1,0 +1,32 @@
+{
+  "name": "onova-take-home",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.14.13",
+    "install": "^0.13.0",
+    "mui": "^0.0.1",
+    "next": "^13.5.4",
+    "npm": "^10.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-native-sqlite-storage": "^6.0.1",
+    "sqlite": "^5.0.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-native-sqlite-storage": "^6.0.1",
+    "typescript": "^5"
+  }
+}
